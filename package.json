@@ -1,0 +1,20 @@
+{
+  "name": "GitHubTimeline",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.20.0",
+    "debug": "~0.7.2",
+    "async": "~0.2.7",
+    "redis": "~0.8.3",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT"
+}
