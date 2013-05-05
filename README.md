@@ -1,6 +1,6 @@
 # githubtimeline
 
-Polls GitHub's timline API, emits events through node.js events.EventEmitter
+Polls GitHub's timeline API, emits events through node.js events.EventEmitter
 
     var Timeline = require('./');
 
