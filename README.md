@@ -4,7 +4,7 @@
 
 ## Install
 
-    npm install githubtimeline
+    $ npm install --save githubtimeline
 
 ### Usage
 
